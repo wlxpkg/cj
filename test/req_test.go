@@ -2,7 +2,7 @@
  * @Author: qiuling
  * @Date: 2019-06-25 17:34:31
  * @Last Modified by: qiuling
- * @Last Modified time: 2019-12-05 11:34:44
+ * @Last Modified time: 2020-05-21 23:00:02
  */
 package test
 
@@ -11,7 +11,7 @@ import (
 
 	. "github.com/wlxpkg/base"
 	"github.com/wlxpkg/base/req"
-	rest "github.com/wlxpkg/zwyd/req"
+	rest "github.com/wlxpkg/tiktok/req"
 
 	"github.com/stretchr/testify/assert"
 )

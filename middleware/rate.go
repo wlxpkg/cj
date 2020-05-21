@@ -3,14 +3,14 @@
  * @Author: qiuling
  * @Date: 2019-09-18 16:16:34
  * @Last Modified by: qiuling
- * @Last Modified time: 2019-12-05 11:10:17
+ * @Last Modified time: 2020-05-21 23:00:02
  */
 
 package middleware
 
 import (
 	"github.com/wlxpkg/base/model"
-	. "github.com/wlxpkg/zwyd"
+	. "github.com/wlxpkg/tiktok"
 	"strings"
 
 	"github.com/gin-gonic/gin"
