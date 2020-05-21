@@ -1,4 +1,4 @@
-module github.com/wlxpkg/zwyd
+module github.com/wlxpkg/tiktok
 
 go 1.13
 

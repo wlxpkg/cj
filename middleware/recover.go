@@ -2,7 +2,7 @@
  * @Author: qiuling
  * @Date: 2019-08-22 18:26:18
  * @Last Modified by: qiuling
- * @Last Modified time: 2019-12-05 11:10:17
+ * @Last Modified time: 2020-05-21 23:00:02
  */
 package middleware
 
@@ -11,7 +11,7 @@ import (
 	"net/http"
 
 	"github.com/wlxpkg/base/log"
-	. "github.com/wlxpkg/zwyd"
+	. "github.com/wlxpkg/tiktok"
 
 	"github.com/gin-gonic/gin"
 )
