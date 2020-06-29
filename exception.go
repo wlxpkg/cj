@@ -1,4 +1,4 @@
-package tiktok
+package cj
 
 import (
 	"errors"

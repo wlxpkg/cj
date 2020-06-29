@@ -1,4 +1,4 @@
-module github.com/wlxpkg/tiktok
+module github.com/wlxpkg/cj
 
 go 1.13
 
